@@ -82,13 +82,13 @@ body{
 .parte-central{
     display: flex;
     justify-content: center;
-    width: 70%;
+    width: 80%;
 }
 
 /*-------------   aside    -------------*/
 
 .left-bar{
-    flex: 0 0 20%;
+    flex: 0 0 20;
     margin: 15px;
     padding: 0px 15px;
     background-color: white;
@@ -154,7 +154,7 @@ body{
 
 .sections{
     margin: 15px;
-    flex: 1 1 60%;
+    flex: 1 1 70;
     display: flex;
     flex-direction: column;
 }
